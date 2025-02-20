@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<center> <h1>Моя перша WEB-сторінка</h1></center><p>
+<title> My new Web-page </title>
+</head>
+<body background="https://img.freepik.com/free-vector/black-background-geometric-gradient-design_677411-2886.jpg?semt=ais_hybrid" text="#45db9e">
+<b>Привіт!</b> <i> Мене звати Аня. Я навчаюсь у 10 класі. Я люблю слухати хорошу музику, грати в шахи, проводити свій вільний час на вулиці.</i><p>
+<table border="5">
+    <caption>Місця для подорожей</caption>
+    <tr>
+      <th rowspan="1"><img src="https://ukr-prokat.com/wp-content/uploads/2020/07/lviv.jpg" width="350" height="250"></th></th>
+      <th rowspan="1">Старовинне місто з унікальною архітектурою, атмосферними кав’ярнями та історичним центром, що входить до списку ЮНЕСКО.</th>
+      </tr>
+      
+    <tr>
+       <td><img src="https://pohcdn.com/guide/sites/default/files/styles/node__blog_post__bp_banner/public/2021-09/tokyo.jpg" width="350" height="250"></th>
+       <td>Місто майбутнього з передовими технологіями, хмарочосами, традиційними храмами та неперевершеною японською кухнею.</th>
+      </tr>
+       
+         <tr>
+           <td><img src="https://images.unian.net/photos/2020_12/thumb_files/1200_0_1608126680-8618.jpg" width="350" height="250"></th>
+           <td>Загадкове місто інків, розташоване серед гір Анд. Його вважають одним із нових семи чудес світу.</th>
+            </tr>
+       </body>
+</html>
